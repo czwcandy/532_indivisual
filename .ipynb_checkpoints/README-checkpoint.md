@@ -8,8 +8,7 @@ Climate patterns are complex and require meticulous observation. By understandin
 
 ## App Description
 
-Please view the video:
-https://media.github.ubc.ca/user/1751/files/f5d98efd-abfd-43a2-8613-2ca5e0a260eb where I walk through the functionalities and features of the Vancouver Weather Data Exploration app. The video provides a demonstration of how to interact with the app and highlights the key components designed to aid in the exploration of weather data.
+Please view the  where I walk through the functionalities and features of the Vancouver Weather Data Exploration app. The video provides a demonstration of how to interact with the app and highlights the key components designed to aid in the exploration of weather data.
 
 ## Installation Instructions
 
